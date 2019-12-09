@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://damp-depths-48186.herokuapp.com/"
 title = "Game of Code"
 
 theme = "hugo-coder"
