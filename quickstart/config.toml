@@ -90,17 +90,17 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Linus"
             weight = 1
-            url = "/user1/linus/"
+            url = "https://damp-depths-48186.herokuapp.com/user1/linus/"
 
             [[languages.en.menu.main]]
             name = "Linnea"
             weight = 2
-            url = "/users/linnea"
+            url = "https://damp-depths-48186.herokuapp.com/users/linnea/"
 
             [[languages.en.menu.main]]
             name = "Dexter"
             weight = 3
-            url = "/user2/Dexter"
+            url = "https://damp-depths-48186.herokuapp.com/user2/Dexter/"
 
             [[languages.en.menu.main]]
             name = "Contact us"
