@@ -100,7 +100,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Dexter"
             weight = 3
-            url = "/user2/Dexter/"
+            url = "/user2/dexter/"
 
             [[languages.en.menu.main]]
             name = "About us"
