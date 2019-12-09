@@ -21,7 +21,7 @@ disqusShortname = "yourdiscussshortname"
     keywords = "blog,developer,personal"
     info = "Official Game of Code website"
     avatarurl = "/img/Avatar.jpg"
-    footercontent = "Enter a text here."
+    footercontent = "Your future coders."
 
     dateformat = "January 2, 2006"
 
