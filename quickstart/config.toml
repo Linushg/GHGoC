@@ -90,17 +90,17 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Linus"
             weight = 1
-            url = "/content/linus.md/"
+            url = "/user1/"
 
             [[languages.en.menu.main]]
             name = "Linnea"
             weight = 2
-            url = "Linnea/"
+            url = "/users/"
 
             [[languages.en.menu.main]]
             name = "Dexter"
             weight = 3
-            url = "Dexter/"
+            url = "/user2/"
 
             [[languages.en.menu.main]]
             name = "Contact us"
