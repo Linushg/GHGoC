@@ -1,4 +1,4 @@
-baseurl = "https://eloquent-bohr-fe10b8.netlify.com"
+baseURL = "https://eloquent-bohr-fe10b8.netlify.com"
 title = "Game of Code"
 
 theme = "hugo-coder"
