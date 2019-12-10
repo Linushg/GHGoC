@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Game of Code</title>
+    <link>https://eloquent-bohr-fe10b8.netlify.com/contact/</link>
+    <description>Recent content in Contacts on Game of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Dec 2019 13:09:12 +0100</lastBuildDate>
+    
+	<atom:link href="https://eloquent-bohr-fe10b8.netlify.com/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://eloquent-bohr-fe10b8.netlify.com/contact/about_us/</link>
+      <pubDate>Mon, 09 Dec 2019 13:09:12 +0100</pubDate>
+      
+      <guid>https://eloquent-bohr-fe10b8.netlify.com/contact/about_us/</guid>
+      <description>About usAbout usWe are Game of Code, we are coders.We are a small team constisting of 3 people who are getting educated in code. We have been workning with JAVA, C#, Html, Css, MySQL, Heroku, Netlify and Javascript. Right now our team is exploring the possibilities of GoHugo and that is the reason for this site. We are a positive team constantly searching for more knowledge in the coding area to become better atwhat we do.</description>
+    </item>
+    
+  </channel>
+</rss>

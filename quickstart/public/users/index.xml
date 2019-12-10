@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Users on Game of Code</title>
+    <link>https://eloquent-bohr-fe10b8.netlify.com/users/</link>
+    <description>Recent content in Users on Game of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Dec 2019 12:17:10 +0100</lastBuildDate>
+    
+	<atom:link href="https://eloquent-bohr-fe10b8.netlify.com/users/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://eloquent-bohr-fe10b8.netlify.com/users/linnea/</link>
+      <pubDate>Mon, 09 Dec 2019 12:17:10 +0100</pubDate>
+      
+      <guid>https://eloquent-bohr-fe10b8.netlify.com/users/linnea/</guid>
+      <description>LinneaLinneaFuture coder and sleep-enthusiast.My name is Linnea and I am 1/3 of team Game of Code. My goal in life is to become a talanted coder whose good at solving problems. I have basic knowledge in somecoding-languages, which you can find on the About us page if that interests you.I started to learn my first language at 17 years old which was html and css, and from thereI went on to learn the basics in a few more and to use diffrent tools.</description>
+    </item>
+    
+  </channel>
+</rss>

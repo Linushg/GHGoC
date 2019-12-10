@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User1s on Game of Code</title>
+    <link>https://eloquent-bohr-fe10b8.netlify.com/user1/</link>
+    <description>Recent content in User1s on Game of Code</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Dec 2019 13:14:40 +0100</lastBuildDate>
+    
+	<atom:link href="https://eloquent-bohr-fe10b8.netlify.com/user1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://eloquent-bohr-fe10b8.netlify.com/user1/linus/</link>
+      <pubDate>Mon, 09 Dec 2019 13:14:40 +0100</pubDate>
+      
+      <guid>https://eloquent-bohr-fe10b8.netlify.com/user1/linus/</guid>
+      <description>LinusFuture coder and military enthusiast My name is Linus and I am 1/3 of team Game of Code. I have one goal in life and that is to always make the best of things. Since I love problemsolving and computers I decided to go into codeing since I tought I would like it wich I did, a lot. I just stated codeing with a one month full time course in Java this summer before I started this one year education.</description>
+    </item>
+    
+  </channel>
+</rss>
