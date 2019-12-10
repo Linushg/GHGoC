@@ -1,4 +1,4 @@
-baseurl = "https://damp-depths-48186.herokuapp.com/"
+baseurl = "https://eloquent-bohr-fe10b8.netlify.com"
 title = "Game of Code"
 
 theme = "hugo-coder"
