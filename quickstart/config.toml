@@ -90,12 +90,12 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Linus"
             weight = 1
-            URL = "https://eloquent-bohr-fe10b8.netlify.com/user1/linus.html/"
+            URL = "https://eloquent-bohr-fe10b8.netlify.com/user1/linus/"
 
             [[languages.en.menu.main]]
             name = "Linnea"
             weight = 2
-            URL = "https://eloquent-bohr-fe10b8.netlify.com/users/linnea.html/"
+            URL = "https://eloquent-bohr-fe10b8.netlify.com/users/linnea/"
 
             [[languages.en.menu.main]]
             name = "Dexter"
