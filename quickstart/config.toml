@@ -95,7 +95,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Linnea"
             weight = 2
-            url = "/users/linnea.html/"
+            url = "/users/linnea/"
 
             [[languages.en.menu.main]]
             name = "Dexter"
