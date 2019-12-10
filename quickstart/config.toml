@@ -90,21 +90,21 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Linus"
             weight = 1
-            url = "/user1/linus/"
+            url = "https://eloquent-bohr-fe10b8.netlify.com/user1/linus/"
 
             [[languages.en.menu.main]]
             name = "Linnea"
             weight = 2
-            url = "/users/linnea/"
+            url = "https://eloquent-bohr-fe10b8.netlify.com/users/linnea/"
 
             [[languages.en.menu.main]]
             name = "Dexter"
             weight = 3
-            url = "/user2/dexter/"
+            url = "https://eloquent-bohr-fe10b8.netlify.com/user2/dexter/"
 
             [[languages.en.menu.main]]
             name = "About us"
             weight = 5
-            url = "contact/about_us"
+            url = "https://eloquent-bohr-fe10b8.netlify.comcontact/about_us"
 
             
